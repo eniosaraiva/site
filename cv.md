@@ -4,8 +4,18 @@ title: Currículo
 subtitle: XXXXXX
 ---
 
-My name is Ênio Saraiva Leão. I have the following qualities:
+**Formação Acadêmica:**
+Bacharel em Direito (Unipê/2009)
+Bacharel em Relações Internacionais (Uepb/2010)
+Especialista em Direito Tributário
+Especialista em Direito Administrativo
+MBA em Data Science & Analytics (USP/2023*)
+Mestre em Ciência Política (Ufpe/2012)
 
+**Formação Complementar:**
+Computer Science for Lawyers - CS50L (Harvard/2021)
+Introdução ao R (Unifesp/2022)
+Introdução ao R com Exemplos de Política Internacional (USP/2022)
 - I rock a great mustache
 - I'm extremely loyal to my family
 
