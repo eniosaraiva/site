@@ -5,17 +5,17 @@ subtitle: XXXXXX
 ---
 
 **Formação Acadêmica:**
-Bacharel em Direito (Unipê/2009)
-Bacharel em Relações Internacionais (Uepb/2010)
-Especialista em Direito Tributário
-Especialista em Direito Administrativo
-MBA em Data Science & Analytics (USP/2023*)
-Mestre em Ciência Política (Ufpe/2012)
+- Bacharel em Direito (UNIPÊ/2009)
+- Bacharel em Relações Internacionais (UEPB/2010)
+- Especialista em Direito Tributário (IESP/)
+- Especialista em Direito Administrativo ()
+- MBA em Data Science & Analytics (USP/2023*)
+- Mestre em Ciência Política (UFPE/2012)
 
 **Formação Complementar:**
-Computer Science for Lawyers - CS50L (Harvard/2021)
-Introdução ao R (Unifesp/2022)
-Introdução ao R com Exemplos de Política Internacional (USP/2022)
+- Computer Science for Lawyers - CS50L (Harvard/2021)
+- Introdução ao R (Unifesp/2022)
+- Introdução ao R com Exemplos de Política Internacional (USP/2022)
 - I rock a great mustache
 - I'm extremely loyal to my family
 
