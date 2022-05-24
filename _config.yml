@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Publicações e Portifólios
+title: Tecnologia | Dados | Jurimetria
 
 # Your name to show in the footer
 author: Ênio Saraiva Leão
@@ -14,11 +14,11 @@ author: Ênio Saraiva Leão
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Sobre"
-  Resources:
+  Currículo: "cv"
+  Projetos:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publicações: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,28 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+  email: "enio@tuta.io"
+  github: eniosaraiva
+  linkedin: eniosaraiva
+  instagram: esaraiva86
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
