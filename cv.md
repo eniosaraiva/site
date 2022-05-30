@@ -41,4 +41,5 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Pacote Office;
 - Sistemas Operacionais (Windows, Mac e Linux);
 - Redes de Computadores.
+
 </div>
