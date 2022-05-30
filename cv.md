@@ -26,12 +26,13 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Introdução ao R com Exemplos de Política Internacional (USP/2022);
 - Jurimetria Aplicada (CONSUDATA/2022).
 
-**Publicações**
-- 
-
+**Publicações:**
+- A incluir
+  
 **Linguagem de Programação:**
 - R: avançado;
-- HTML: básico.
+- HTML: básico;
+- Python (em aprendizagem).
 
 **Idiomas:**
 - Inglês: avançado (com experiência no exterior);
@@ -40,5 +41,6 @@ subtitle: Experiências Profissionais e Acadêmicas
 **Habilidades não certificadas**
 - Pacote Office;
 - Sistemas Operacionais (Windows, Mac e Linux);
-- Redes de Computadores.
+- Redes de Computadores;
+- Redução de rastros digital.
 
