@@ -3,6 +3,7 @@ layout: page
 title: Currículo
 subtitle: Experiências Profissionais e Acadêmicas
 ---
+<div class="text-justify">
 
 **Experiência Profissional:**
 - Advogado inscrito na OAB/PB e OAB/RN, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo (2010-presente);
@@ -40,3 +41,4 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Pacote Office;
 - Sistemas Operacionais (Windows, Mac e Linux);
 - Redes de Computadores.
+</div>
