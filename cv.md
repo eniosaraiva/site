@@ -4,8 +4,8 @@ title: Currículo
 subtitle: Experiências Profissionais e Acadêmicas
 ---
 
-**Experiência Profissional**
-- Advogado inscrito na OAB/PB e OAB/RN desde 2010, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo;
+**Experiência Profissional:**
+- Advogado inscrito na OAB/PB e OAB/RN, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo (2010-presente);
 - Membro da Comissão de Licitação, Pregoeiro Substituto e Assessor Jurídico da Defensoria Pública do Estado da Paraíba (2012-2015);
 - Procurador Legislativo da Câmara Municipal de Parnamirim/RN, aprovado em 1º lugar em concurso público de provas e títulos. Lotado no Procon Câmara (2020-presente).
 
@@ -25,7 +25,10 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Introdução ao R com Exemplos de Política Internacional (USP/2022);
 - Jurimetria Aplicada (CONSUDATA/2022).
 
-**Linguagem de Programação**
+**Publicações**
+- 
+
+**Linguagem de Programação:**
 - R: avançado;
 - HTML: básico.
 
@@ -33,3 +36,7 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Inglês: avançado (com experiência no exterior);
 - Espanhol: básico.
 
+**Habilidades não certificadas**
+- Pacote Office;
+- Sistemas Operacionais (Windows, Mac e Linux);
+- Redes de Computadores.
