@@ -3,12 +3,11 @@ layout: page
 title: Currículo
 subtitle: Experiências Profissionais e Acadêmicas
 ---
-<div class="text-justify">
 
 **Experiência Profissional:**
-- Advogado inscrito na OAB/PB e OAB/RN, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo (2010-presente);
-- Membro da Comissão de Licitação, Pregoeiro Substituto e Assessor Jurídico da Defensoria Pública do Estado da Paraíba (2012-2015);
-- Procurador Legislativo da Câmara Municipal de Parnamirim/RN, aprovado em 1º lugar em concurso público de provas e títulos. Lotado no Procon Câmara (2020-presente).
+<justify>- Advogado inscrito na OAB/PB e OAB/RN, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo (2010-presente);<justify>
+<justify>- Membro da Comissão de Licitação, Pregoeiro Substituto e Assessor Jurídico da Defensoria Pública do Estado da Paraíba (2012-2015);<justify>
+<justify>- Procurador Legislativo da Câmara Municipal de Parnamirim/RN, aprovado em 1º lugar em concurso público de provas e títulos. Lotado no Procon Câmara (2020-presente).<justify>
 
 **Formação Acadêmica:**
 - Bacharel em Direito (UNIPÊ/2009);
@@ -42,4 +41,3 @@ subtitle: Experiências Profissionais e Acadêmicas
 - Sistemas Operacionais (Windows, Mac e Linux);
 - Redes de Computadores.
 
-</div>
