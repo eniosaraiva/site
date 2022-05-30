@@ -1,26 +1,35 @@
 ---
 layout: page
 title: Currículo
-subtitle: XXXXXX
+subtitle: Experiências Profissionais e Acadêmicas
 ---
 
+**Experiência Profissional**
+- Advogado inscrito na OAB/PB e OAB/RN desde 2010, com atuação em Direito Civil, Administrativo, Tributário, Trabalhista e Consumidor, com experiência no contencioso e consultivo;
+- Membro da Comissão de Licitação, Pregoeiro Substituto e Assessor Jurídico da Defensoria Pública do Estado da Paraíba (2012-2015);
+- Procurador Legislativo da Câmara Municipal de Parnamirim/RN, aprovado em 1º lugar em concurso público de provas e títulos. Lotado no Procon Câmara (2020-presente).
+
 **Formação Acadêmica:**
-- Bacharel em Direito (UNIPÊ/2009)
-- Bacharel em Relações Internacionais (UEPB/2010)
-- Especialista em Direito Tributário (IESP/)
-- Especialista em Direito Administrativo ()
-- MBA em Data Science & Analytics (USP/2023*)
-- Mestre em Ciência Política (UFPE/2012)
+- Bacharel em Direito (UNIPÊ/2009);
+- Bacharel em Relações Internacionais (UEPB/2011);
+- Especialista em Direito Tributário (IESP/2011);
+- Especialista em Direito Administrativo (UNIDERP/2015);
+- Especialista em Lei Geral de Proteção de Dados (LEGALE/2022);
+- MBA em Data Science & Analytics (USP/2023* - em curso);
+- Mestre em Ciência Política (UFPE/2012).
 
 **Formação Complementar:**
-- Computer Science for Lawyers - CS50L (Harvard/2021)
-- Introdução ao R (Unifesp/2022)
-- Introdução ao R com Exemplos de Política Internacional (USP/2022)
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Montagem e Manutenção de Computadores (SENAI/)
+- Computer Science for Lawyers - CS50L (Harvard/2022);
+- Introdução ao R (Unifesp/2022);
+- Introdução ao R com Exemplos de Política Internacional (USP/2022);
+- Jurimetria Aplicada (CONSUDATA/2022).
 
-What else do you need?
+**Linguagem de Programação**
+- R: avançado;
+- HTML: básico.
 
-### My story
+**Idiomas:**
+- Inglês: avançado (com experiência no exterior);
+- Espanhol: básico.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
